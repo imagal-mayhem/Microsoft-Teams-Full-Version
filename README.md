@@ -256,4 +256,4 @@ This repository serves as the official landing page for Microsoft Teams. The sof
 **Get the most recent version of Microsoft Teams today!**
 
 ---
-**Last updated:** 2026-09-19 22:13:25 UTC
+**Last updated:** 2026-09-20 00:36:02 UTC
